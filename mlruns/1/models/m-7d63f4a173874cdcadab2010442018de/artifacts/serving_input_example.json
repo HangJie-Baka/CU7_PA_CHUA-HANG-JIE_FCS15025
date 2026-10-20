@@ -1,0 +1,46 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "support_calls",
+      "payment_method",
+      "tenure_months",
+      "monthly_fee_rm",
+      "avg_hours_week",
+      "plan",
+      "main_device",
+      "contract"
+    ],
+    "data": [
+      [
+        2,
+        "Bank transfer",
+        17,
+        50.8,
+        4.2,
+        "Premium",
+        "Laptop",
+        "6-month"
+      ],
+      [
+        2,
+        "Bank transfer",
+        18,
+        23.3,
+        1.2,
+        "Basic",
+        "TV",
+        "Monthly"
+      ],
+      [
+        0,
+        "E-wallet",
+        16,
+        20.6,
+        15.3,
+        "Basic",
+        "Laptop",
+        "6-month"
+      ]
+    ]
+  }
+}
